@@ -13,5 +13,5 @@ function fibonacci(num) {
 	// console.log(result);
 	return result;
 }
-console.log(fibonacci(0));
+// console.log(fibonacci(0));
 // module.exports = fibonacci;
